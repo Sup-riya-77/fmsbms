@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-size: 30px;
+    font-family:'Playfair Display',serif;
+}
+li{
+    margin-right: 20px;
+    font-weight: 500;
+}
+.dropdown{
+    padding: 1px;
+    
+}
+#dropdown-basic{
+   background-color: rgb(13 202 240);
+   border-color: rgb(13 202 240);
+   margin-top: -6px;
+}

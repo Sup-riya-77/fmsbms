@@ -1,0 +1,4 @@
+2024-06-16T00:27:27.897+05:30  INFO 11068 --- [fmsbms] [RMI TCP Connection(33)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-06-16T00:27:28.037+05:30  INFO 11068 --- [fmsbms] [RMI TCP Connection(33)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-06-16T00:27:28.043+05:30  INFO 11068 --- [fmsbms] [RMI TCP Connection(33)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-06-16T00:27:28.054+05:30  INFO 11068 --- [fmsbms] [RMI TCP Connection(33)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
